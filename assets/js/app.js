@@ -10,6 +10,7 @@ import css from "../css/app.css"
 // Import dependencies
 //
 import "phoenix_html"
+window.phoenix = require("phoenix");
 
 // Import local files
 //
